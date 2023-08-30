@@ -1,6 +1,7 @@
 ---
 name: Parivash Feyzishendi
 pronouns: she/her
+group: masters
 startdate: 2021-08-01
 enddate: 2023-08-07
 image: /static/img/members/parivash.png
