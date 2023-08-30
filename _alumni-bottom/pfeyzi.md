@@ -2,9 +2,9 @@
 name: Parivash Feyzishendi
 pronouns: she/her
 startdate: 2021-08-01
-enddate: YYYY-MM-DD
+enddate: 2023-08-07
 image: /static/img/members/parivash.png
-position: PhD Student, CBEE
+position: MS CBEE, Summer 2023
 email: pfeyzis1 [at]  umbc.edu
 twitter: 
 linkedin: parivash-feyzishendi-742803221
