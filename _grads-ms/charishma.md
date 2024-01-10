@@ -4,7 +4,7 @@ pronouns: she/her
 startdate: 2023-08-01
 enddate: YYYY-MM-DD
 image: /static/img/members/charishma.png
-position: MS Student, Information Systems
+position: MPS Student, Data Science
 email:   cpuli1 [at]  umbc.edu
 twitter: Charishma_13
 linkedin: charishma-puli-518717199
